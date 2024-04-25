@@ -57,5 +57,5 @@ The core data section consists of the foundational data of this project: the bib
 
 _Basic Parsed Data by Journals (e.g. basic_oktiabr.tsv, basic_nash_sovremennik.tsv., etc.)_
 
-Data in a minimally processed format. Parsed into the following fields: 'aut_lastn, aut_firstn' (authors as they appear in the Chronicle; repeated twice to accommodate cases where there are up to three multiple authors), contribution_title (titles as they appear in chronicle, including genre denominators), 'journal' (journal title), 'year' (year of issue),	'issue (issue number, out of 1-12 or 1-6),	'page_range' (start and end page, divided by dash). Individual files for each journal.
+Data in a minimally processed format. Parsed into the following fields: 'aut_lastn, aut_firstn' (authors as they appear in the Chronicle; repeated twice to accommodate cases where there are up to three multiple authors), contribution_title (titles as they appear in chronicle, including genre denominators), 'journal' (journal title), 'year' (year of issue),	'issue (issue number, out of 1-12 or 1-6),	'page_range' (start and end page, divided by dash). Individual files for each journal. In _Subscribing to Sovietdom_ the individual journals' datasets were used to establish and compare the frequency of keywords in the contribution titles of the publications.
 
