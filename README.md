@@ -34,11 +34,11 @@ This process involved many editorial decisions. Much of the reconciliation of au
 
 Use and Citation
 
-These bibliographical data are not subject to copyright and researchers are welcome to use it in whichever way they would like. Since significant labor went into processing this data, I would, however, be grateful for a citation in the form of a reference to the projects primary article publication: 
+These bibliographical data are not subject to copyright and researchers are welcome to use them in whichever way they would like. As significant labor went into processing this data, it would be appropriate to citate the project's primary article publication: 
 
 Philip Gleissner, “‘Somehow, I Wasn’t Drawn into the Editorial Office of Novyi Mir’: Digital Approaches to the Literary Environment of Late Socialist Journals.” _Russian Literature_ 122-123 (2021): 163-191.
 
-While the Indiana University Library's digital _Letopis'_ is not being maintained anymore and has been made inaccessible to the public, I believe that a reference to the following publication can serve to acknowledge its foundational contribution:
+Although the Indiana University Library's digital _Letopis'_ is not being maintained anymore and has been made inaccessible to the public, it would be appropriate to cite the following publication:
 
 Murlin Croucher, “Digitizing and Making a Web Site for the Soviet Letopis’ Zhurnal’nykh Statei, 1956-1975,” _Slavic & East European Information Resources_ 3, no. 2/3 (2002): 179-183. 
 
