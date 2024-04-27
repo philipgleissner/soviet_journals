@@ -1,4 +1,4 @@
-# soviet_journals
+# soviet_journals | Documentation
 
 This is the data repository of the digital humanities project Soviet Journals Reconnected. It was developed during a year-long graduate fellowship at the Princeton Center for Digital Humanities in 2016/2017. With the help of a number of quantitative approaches, especially social network analysis, the data the analysis of this data provides the foundation for a chapter in the forthcoming book _Subscribing to Sovietdom: The Lives of the Socialist Literary Journal_ (forthcoming with University of Toronto Press), the article "‘Somehow, I Wasn’t Drawn into the Editorial Office of Novyi Mir’: Digital Approaches to the Literary Environment of Late Socialist Journals." (Russian Literature 122-123, 2021), and a number of conference presentations. This document provides contextual commentary and an overview of the data, which are accessible for scholarly use.
 
