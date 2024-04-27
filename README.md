@@ -43,6 +43,7 @@ The data provided here follow the underlying notion there there is no such thing
 **The repository contains the following datasets in Two Categories: Supplementary Data and Core Data**
 
 _Supplementary Data_
+
 This part of the dataset is, in fact, not extracted from the digitized _Letopis'_ but rather collected from front and back matter of the individual journals. In the scholarly publications associated with this project, these data used to make a broader argument about the literary sociology of Soviet journals.
 
 _Circulation by Journal, Issue, Year (circulation.tsv)_
