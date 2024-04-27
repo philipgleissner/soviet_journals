@@ -21,7 +21,7 @@ Normalization
 
 In a second step, the data were normalized. This involved unifying the spelling of individual journal titles that were used interchangeably by the Soviet bibliographers, e.g. _Иностранная литература_ vs _Иностр. литература_, both of which refer to the journal _Inostrannaia literatura_. 
 
-Titles, author names, journal titles were also transliterated, following the Library of Congress system for Cyrillic Russian transliteration (without diacritics and ligatures, which tend to interfere with tools for computational analysis). Some of this transliteration was done by hand or with the help of regular expressions in a plain text editor. At a later stage, I relied on the data cleaning tool Open Refine, and I provide a brief tutorial on automatic transliteration on my research blog  at https://philipgleissner.com/automatic-transliteration-using-open-refine/.
+Titles, author names, journal titles were also transliterated, following the Library of Congress system for Cyrillic Russian transliteration (without diacritics and ligatures, which tend to interfere with tools for computational analysis). Some of this transliteration was done by hand or with the help of regular expressions in a plain text editor. At a later stage, I relied on the data cleaning tool Open Refine, and I provide a brief tutorial on automatic transliteration on my research blog  at philipgleissner.com/automatic-transliteration-using-open-refine/.
 
 Author Attribution
 
