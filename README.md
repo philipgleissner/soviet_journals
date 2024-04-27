@@ -28,7 +28,7 @@ The project Soviet Journals Reconnected consists exclusively of plain text data,
 
 **Use and Citation**
 
-This bibliographical data is not subject to copyright and researchers are welcome to use it in whichever way they would like. Since significant labor went into processing this data, I would, however, be grateful for a citation in the form of a reference to the projects primary article publication: 
+These bibliographical data are not subject to copyright and researchers are welcome to use it in whichever way they would like. Since significant labor went into processing this data, I would, however, be grateful for a citation in the form of a reference to the projects primary article publication: 
 
 Philip Gleissner, “‘Somehow, I Wasn’t Drawn into the Editorial Office of Novyi Mir’: Digital Approaches to the Literary Environment of Late Socialist Journals.” _Russian Literature_ 122-123 (2021): 163-191.
 
